@@ -1,2 +1,2 @@
 # prework-study-guide
-study guide for the rework
+study guide for the prework
